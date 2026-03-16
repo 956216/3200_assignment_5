@@ -18,4 +18,3 @@ client
   .catch((err) => {
     console.error(err);
   });
-run();
